@@ -1,2 +1,3 @@
 #Hello, this is the new file 
-# Let's create a merge conflict
+
+#This is a test of the commit/push/pull where merging conflicts might arise 
